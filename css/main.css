@@ -1,0 +1,30 @@
+body {
+	background-image: url(../img/book_img.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	color: #a9a9a9;
+	font-family: 'Vast Shadow', cursive;
+}
+
+.books-main {
+	margin-left: 5%;
+
+}
+
+
+h1 {
+	font-family: 'Plaster', cursive;
+	font-size: xx-large;
+}
+
+h2 {
+	font-size: large;
+}
+
+
+
+
+
+
+
+
